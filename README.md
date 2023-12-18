@@ -1,9 +1,33 @@
-# COMING SOON....
+# MAVEN CHEAT LOADER
 
-![Screenshot 2023-12-18 095253](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/990712db-1e6c-44d8-98eb-d3b96e6719be)
-![Screenshot 2023-12-18 095303](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/88586f6d-40f8-4405-a495-cd6992275c76)
-![Screenshot 2023-12-18 095242](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/dbe123d6-1bd9-480b-8f4c-e79054198398)
-![Screenshot 2023-12-18 095227](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/ef73d019-8f60-47ec-911b-d88d0e66b1cf)
-![Screenshot 2023-12-18 095157](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/3a4a5bbe-624c-4841-bb0c-73682319780d)
-![Screenshot 2023-12-18 095132](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/b7aec978-9d6f-472a-848c-1f89ed29c7f0)
+Maven Cheat loader is a basic Open-Source cheat loader I made in a day or so with features such as injectors, Stealth Inject Options, HWID Spoofers (Coming Soon...), and etc, and furthermore boasts a very clean UI. However I'm also quite new to c++ and imgui so please don't expect it to be the worlds best tool.
 
+
+# CURRENT FEATURES
+
+• x64 DLL Injector ✔️
+
+• Stealth Inject ✔️
+
+• Close Program On Inject ✔️
+
+• Password Guessing Game (If your Bored) ✔️
+
+• Custom Background Panel Colours ✔️
+
+• HWID Spoofer (Coming Soon....) ❌
+
+• Trace Cleaner (Coming Soon....) ❌
+
+
+# PICTURES OF THE LOADER
+![Screenshot 2023-12-18 230842](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/9b228f48-753e-40b8-8a90-df7ccb82a381)
+![Screenshot 2023-12-18 230834](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/e60e43c0-143f-474b-880d-bcb6d0806783)
+![Screenshot 2023-12-18 230826](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/9d107163-4149-46db-aee3-ba109cb0882f)
+![Screenshot 2023-12-18 230818](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/761c8cec-d054-48fa-8f0a-5cda3bd50874)
+![Screenshot 2023-12-18 230808](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/96a3863f-2191-4479-9192-444f5120b0b2)
+
+
+# DONT FORGET!!!
+
+If you like this tool please remember to give it a star

@@ -32,9 +32,10 @@ Maven Cheat loader is a basic Open-Source cheat loader I made in a day or so wit
 # CREDITS
 
 imgui: https://github.com/ocornut/imgui
+
 imgui file dialog: https://github.com/aiekick/ImGuiFileDialog
 
 
 # 🛑 DONT FORGET!!!
 
-If you like this tool please remember to give it a star
+**If you like this tool please remember to give it a star ⭐**

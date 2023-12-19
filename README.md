@@ -29,6 +29,13 @@ Maven Cheat loader is a basic Open-Source cheat loader I made in a day or so wit
 ![Screenshot 2023-12-18 230808](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/96a3863f-2191-4479-9192-444f5120b0b2)
 
 
+# UPDATE LOG
+
+18/12/2023: Adding a Login Screen, fixing the messy AF code, added a Working Injector, adding more random crap e.g. random guessing game thing idk, fixing Game injector, only For x64 Processes, easier to use the injector (added file dialog)
+
+17/12/2023: Cleaning Up Code, just Adding more Features
+
+
 # CREDITS
 
 imgui: https://github.com/ocornut/imgui

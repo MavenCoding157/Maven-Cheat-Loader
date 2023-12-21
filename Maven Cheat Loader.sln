@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maven Cheat Loader", "Maven Cheat Loader\Maven Cheat Loader.vcxproj", "{0FA0104D-F566-4444-A964-26BBF0EB2143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA0104D-F566-4444-A964-26BBF0EB2143}.Debug|x64.ActiveCfg = Debug|x64
+		{0FA0104D-F566-4444-A964-26BBF0EB2143}.Debug|x64.Build.0 = Debug|x64
+		{0FA0104D-F566-4444-A964-26BBF0EB2143}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FA0104D-F566-4444-A964-26BBF0EB2143}.Debug|x86.Build.0 = Debug|Win32
+		{0FA0104D-F566-4444-A964-26BBF0EB2143}.Release|x64.ActiveCfg = Release|x64
+		{0FA0104D-F566-4444-A964-26BBF0EB2143}.Release|x64.Build.0 = Release|x64
+		{0FA0104D-F566-4444-A964-26BBF0EB2143}.Release|x86.ActiveCfg = Release|Win32
+		{0FA0104D-F566-4444-A964-26BBF0EB2143}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {707A5AA4-E1DC-4EF5-83C1-76A3D8AD23F5}
+	EndGlobalSection
+EndGlobal

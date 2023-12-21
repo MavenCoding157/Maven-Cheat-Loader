@@ -36,6 +36,11 @@ Maven Cheat loader is a basic Open-Source cheat loader I made in a day or so wit
 17/12/2023: Cleaning Up Code, just Adding more Features
 
 
+# IMPORTANT
+
+• When building the program please build in 'Release' and 'x64' else you may encounter some problems.
+
+
 # CREDITS
 
 imgui: https://github.com/ocornut/imgui

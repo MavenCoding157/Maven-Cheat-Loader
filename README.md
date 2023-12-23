@@ -31,6 +31,8 @@ Maven Cheat loader is a basic Open-Source cheat loader I made in a day or so wit
 
 # UPDATE LOG
 
+23/12/2023: There won't be any major updates for a little bit as I am working on other stuff atm.
+
 21/12/2023: Actually added a loader, The current Games are: Gmod, CS2 and GTA V, However only GTA V works atm, Fixing/removing unnecessary and useless code, UI updates, Currently working on GTA 5 Trainer atm so not many updates will be coming to the loader for now
 
 18/12/2023: Adding a Login Screen, fixing the messy AF code, added a Working Injector, adding more random crap e.g. random guessing game thing idk, fixing Game injector, only For x64 Processes, easier to use the injector (added file dialog)

@@ -5,7 +5,7 @@ Maven Cheat loader is a basic Open-Source cheat loader I made in a day or so wit
 
 # CURRENT FEATURES
 
-• x64 DLL Injector ✔️
+• Cheat Loader ✔️
 
 • Stealth Inject ✔️
 

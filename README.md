@@ -25,7 +25,7 @@ Maven Cheat loader is a basic Open-Source cheat loader I made in a day or so wit
 ![Screenshot 2023-12-18 230842](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/9b228f48-753e-40b8-8a90-df7ccb82a381)
 ![Screenshot 2023-12-18 230834](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/e60e43c0-143f-474b-880d-bcb6d0806783)
 ![Screenshot 2023-12-18 230826](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/9d107163-4149-46db-aee3-ba109cb0882f)
-![Screenshot 2023-12-18 230818](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/761c8cec-d054-48fa-8f0a-5cda3bd50874)
+![image](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/fdf73778-d891-43fe-ad1b-7c02dba584c5)
 ![Screenshot 2023-12-18 230808](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/96a3863f-2191-4479-9192-444f5120b0b2)
 
 

@@ -44,6 +44,13 @@ Maven Cheat loader is a basic Open-Source cheat loader I made in a day or so wit
 
 • When building the program please build in 'Release' and 'x64' else you may encounter some problems.
 
+• The dll's won't be included (for now as they are not finished yet) so to add your own dll's just edit this line of code below which has been highligted and add your dll's filename.
+
+![Screenshot 2023-12-24 131528](https://github.com/MavenCoding157/Maven-Cheat-Loader/assets/117538886/c5078128-baca-464d-8143-34811f263ce3)
+
+
+• Also if you want to add your own games you will have to replace the exe name underneath the dll name (which has been highligted) and also you will have to change the name a bit further up the code as well.
+
 
 # CREDITS
 

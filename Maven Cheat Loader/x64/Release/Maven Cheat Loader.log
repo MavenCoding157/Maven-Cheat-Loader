@@ -1,0 +1,14 @@
+﻿  gui.cpp
+C:\Users\Rano\Desktop\Coding Stuff\Maven-Cheat-Loader-main\Maven Cheat Loader\imgui\imguidesign.h(94,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rano\Desktop\Coding Stuff\Maven-Cheat-Loader-main\Maven Cheat Loader\imgui\imguidesign.h(94,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rano\Desktop\Coding Stuff\Maven-Cheat-Loader-main\Maven Cheat Loader\imgui\imguidesign.h(94,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rano\Desktop\Coding Stuff\Maven-Cheat-Loader-main\Maven Cheat Loader\imgui\imguidesign.h(94,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rano\Desktop\Coding Stuff\Maven-Cheat-Loader-main\Maven Cheat Loader\src\gui.cpp(106,22): warning C4244: 'return': conversion from 'LRESULT' to 'long', possible loss of data
+C:\Users\Rano\Desktop\Coding Stuff\Maven-Cheat-Loader-main\Maven Cheat Loader\src\gui.cpp(1131,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\Users\Rano\Desktop\Coding Stuff\Maven-Cheat-Loader-main\x64\Release\Maven Cheat Loader.lib and object C:\Users\Rano\Desktop\Coding Stuff\Maven-Cheat-Loader-main\x64\Release\Maven Cheat Loader.exp
+  Generating code
+  2 of 4466 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    32 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Maven Cheat Loader.vcxproj -> C:\Users\Rano\Desktop\Coding Stuff\Maven-Cheat-Loader-main\x64\Release\Maven Cheat Loader.exe
